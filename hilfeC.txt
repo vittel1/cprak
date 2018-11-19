@@ -1,0 +1,10 @@
+#Datei kompilieren mit Namen der Ausgabedatei
+gcc -o hello hello.c
+
+#Datei mit Warnungen und Ausgabedatei kompilieren
+gcc -Wall -o array.x array.c
+
+#Install linter
+apm install linter
+apm install linter-ui-default
+apm install linter-gcc
