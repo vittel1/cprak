@@ -1,8 +1,0 @@
-{
-  "execPath": "/usr/bin/gcc",
-  "gccDefaultCFlags": "-Wall",
-  "gccDefaultCppFlags": "-Wall",
-  "gccErrorLimit": 15,
-  "gccIncludePaths": "/home/marcel/uni/cprak/blatt3",
-  "gccSuppressWarnings": true
-}
