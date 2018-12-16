@@ -4,6 +4,12 @@ gcc -o hello hello.c
 #Datei mit Warnungen und Ausgabedatei kompilieren
 gcc -Wall -o array.x array.c
 
+#Mit Mathe Modul kompilieren
+gcc -Wall -o structpoint.x structpoint.c -lm
+
+#gdb: no symbol table is loaded
+gcc -g prog.c
+
 #Install linter
 apm install linter
 apm install linter-ui-default
